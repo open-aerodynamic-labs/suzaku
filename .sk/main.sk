@@ -1,0 +1,8 @@
+fun main(varargs args: String)
+{
+    let x: Int = 20;
+
+    if (x > 20) {
+        ...
+    }
+}
